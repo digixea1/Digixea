@@ -141,12 +141,12 @@ export const PROJECTS: Project[] = [
   {
     id: "2",
     title: "Custom Website Devlopment",
-    client: "Spooks the kooks",
+    client: "BidSpark365",
     category: "Web app",
-    link: "https://spooksthekooks.com/",
+    link: "https://www.bidspark365.com/",
     metrics: [
-      { label: "Users", value: "2M+" },
-      { label: "Growth", value: "40% MoM" },
+      { label: "Users", value: "6000+" },
+      { label: "Growth", value: "80% MoM" },
     ],
     description:
       "Modern, fast, and scalable websites built for real-world performance.",
