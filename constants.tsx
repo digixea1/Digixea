@@ -150,7 +150,7 @@ export const PROJECTS: Project[] = [
     ],
     description:
       "Modern, fast, and scalable websites built for real-world performance.",
-    imageUrl: "/assets/2.png",
+    imageUrl: "/assets/3.png",
   },
   // {
   //   id: "3",
